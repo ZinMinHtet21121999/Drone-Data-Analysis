@@ -19,4 +19,5 @@ battery capacity, weight and speed metrics.
 
 ## Project Files
 - [View Notebook](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_analysis.ipynb)
-- [View SQL](https://drive.google.com/drive/folders/1hvosePjIMb5lZgxDP2GRpBg1ZOjl9h8t)
+- [View Drone Analysis SQL](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_analysis.sql)
+- [View Drone Raw Analysis SQL](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_raw_analysis.sql)
