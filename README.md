@@ -18,5 +18,5 @@ battery capacity, weight and speed metrics.
 - Battery efficiency is the main performance factor
 
 ## Project Files
-- [View Notebook](https://drive.google.com/drive/folders/1lFhNMEvKQKls99sVtmDJnBQVZ2vub5GA)
+- [View Notebook](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_analysis.ipynb)
 - [View SQL](https://drive.google.com/drive/folders/1hvosePjIMb5lZgxDP2GRpBg1ZOjl9h8t)
