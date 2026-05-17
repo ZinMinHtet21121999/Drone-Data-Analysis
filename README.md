@@ -13,8 +13,14 @@ battery capacity, weight and speed metrics.
 - SQL (SQLite)
 
 ## Dataset 
--
+- drone_analysis.csv
+- drone_flight_dataset.csv
 
+## Project Structure 
+ - drone_analysis.ipynb - Data Cleaning and EDA
+ - drone_raw_analysis.sql - SQL queries for raw dataset
+ - drone_analysis.sql - SQL queries for cleaned dataset
+   
 ## Key Insights
 - Higher battery capacity = longer flight
 - Heavier drones drain battery faster
@@ -24,3 +30,7 @@ battery capacity, weight and speed metrics.
 - [View Notebook](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_analysis.ipynb)
 - [View Drone Analysis SQL](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_analysis.sql)
 - [View Drone Raw Analysis SQL](https://github.com/ZinMinHtet21121999/Drone-Data-Analysis/blob/main/drone_raw_analysis.sql)
+
+## Dashboard Preview 
+### Dashboard 
+![Dashboard](Dashboard.jpg)
