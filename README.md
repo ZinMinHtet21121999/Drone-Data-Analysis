@@ -12,6 +12,9 @@ battery capacity, weight and speed metrics.
 - Matplotlib & Seaborn
 - SQL (SQLite)
 
+## Dataset 
+-
+
 ## Key Insights
 - Higher battery capacity = longer flight
 - Heavier drones drain battery faster
