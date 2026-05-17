@@ -13,8 +13,8 @@ battery capacity, weight and speed metrics.
 - SQL (SQLite)
 
 ## Dataset 
-- drone_analysis.csv
-- drone_flight_dataset.csv
+- drone_analysis.csv - Cleaned Dataset 
+- drone_flight_dataset.csv - Raw Dataset
 
 ## Project Structure 
  - drone_analysis.ipynb - Data Cleaning and EDA
